@@ -19,6 +19,11 @@ LTSF-Linear/results/
 LTSF-Linear/logs/
 LTSF-Linear/.DS_Store
 
+#prophet
+prophet/bin
+prophet/pyvenv.cfg
+prophet/share
+
 # MacOS
 .DS_Store
 
