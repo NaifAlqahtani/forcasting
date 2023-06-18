@@ -1,0 +1,8 @@
+FiLM/results/
+FiLM/test_results/
+FiLM/checkpoints/
+FiLM/data/
+FiLM/dataset/
+FiLM/*.txt
+FiLM/*.ipynb                                                                         
+FiLM/.idea

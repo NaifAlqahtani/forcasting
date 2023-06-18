@@ -1,0 +1,8 @@
+LTSF-Linear/*.pyc
+LTSF-Linear/*.pth
+LTSF-Linear/dataset/
+LTSF-Linear/result.txt
+LTSF-Linear/test_results/
+LTSF-Linear/results/
+LTSF-Linear/logs/
+LTSF-Linear/.DS_Store
